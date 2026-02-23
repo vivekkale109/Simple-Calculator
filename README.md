@@ -22,4 +22,4 @@ This calculator allows continuous calculations by using a loop, so after perform
 1. Clone or download the source code.
 2. Compile the C program:
    ```bash
-   gcc calculator.c -o calculator
+   gcc Simplecalculator.c -o Simplecalculator
