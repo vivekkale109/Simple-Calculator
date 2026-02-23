@@ -1,7 +1,7 @@
 # Simple Calculator
 
 ## Description
-The "Simple Calculator" in C performs basic arithmetic operations:
+The "Simple Calculator" in C performs basic arithmetic operations: 
 - Addition (+)
 - Subtraction (−)
 - Multiplication (×)
